@@ -25,8 +25,8 @@ This is a repository for my personal portfolio website, showcasing my skills, pr
 
 To run the website locally, follow these steps:
 
-1. Clone this repository to your local machine using `git clone https://github.com/daniel-jebarson/daniel-jebarson.github.io.git`
-2. Navigate to the project's directory: `cd daniel-jebarson.github.io`
+1. Clone this repository to your local machine using `git clone https://github.com/adityadahal/adityadahal.github.io.git`
+2. Navigate to the project's directory: `cd adityadahal.github.io`
 3. Then install packages and run it using the below commands
 ```
 yarn
@@ -35,16 +35,3 @@ yarn
 yarn start
 ```
 
-## Contributing
-
-I appreciate any feedback, suggestions, or contributions to enhance my portfolio website. If you find any issues or have ideas for improvement, please feel free to open an issue or submit a pull request. Your contributions are valuable and help me grow as a professional.
-
-## License
-
-This project is licensed under the [GNU General Public License v3.0](LICENSE). Please refrain from using any personal information or content without proper permission.
-
-## Contact
-
-If you would like to get in touch with me, you can reach me via email at [Mymail](mailto:danieljebarson21@gmail.com). You can also find more information about me and my work on my [LinkedIn](https://www.linkedin.com/in/daniel-jebarson-k-a727a822a) profile.
-
-Thank you for visiting my portfolio website! I hope you find it informative and engaging.
